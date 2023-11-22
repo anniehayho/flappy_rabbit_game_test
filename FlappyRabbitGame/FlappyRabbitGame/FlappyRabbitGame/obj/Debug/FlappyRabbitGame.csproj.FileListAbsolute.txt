@@ -1,0 +1,11 @@
+C:\Users\tranh\OneDrive\Máy tính\FlappyRabbitGame\FlappyRabbitGame\FlappyRabbitGame\bin\Debug\FlappyRabbitGame.exe.config
+C:\Users\tranh\OneDrive\Máy tính\FlappyRabbitGame\FlappyRabbitGame\FlappyRabbitGame\bin\Debug\FlappyRabbitGame.exe
+C:\Users\tranh\OneDrive\Máy tính\FlappyRabbitGame\FlappyRabbitGame\FlappyRabbitGame\bin\Debug\FlappyRabbitGame.pdb
+C:\Users\tranh\OneDrive\Máy tính\FlappyRabbitGame\FlappyRabbitGame\FlappyRabbitGame\obj\Debug\FlappyRabbitGame.csproj.AssemblyReference.cache
+C:\Users\tranh\OneDrive\Máy tính\FlappyRabbitGame\FlappyRabbitGame\FlappyRabbitGame\obj\Debug\FlappyRabbitGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\tranh\OneDrive\Máy tính\FlappyRabbitGame\FlappyRabbitGame\FlappyRabbitGame\obj\Debug\FlappyRabbitGame.Form1.resources
+C:\Users\tranh\OneDrive\Máy tính\FlappyRabbitGame\FlappyRabbitGame\FlappyRabbitGame\obj\Debug\FlappyRabbitGame.Properties.Resources.resources
+C:\Users\tranh\OneDrive\Máy tính\FlappyRabbitGame\FlappyRabbitGame\FlappyRabbitGame\obj\Debug\FlappyRabbitGame.csproj.GenerateResource.cache
+C:\Users\tranh\OneDrive\Máy tính\FlappyRabbitGame\FlappyRabbitGame\FlappyRabbitGame\obj\Debug\FlappyRabbitGame.csproj.CoreCompileInputs.cache
+C:\Users\tranh\OneDrive\Máy tính\FlappyRabbitGame\FlappyRabbitGame\FlappyRabbitGame\obj\Debug\FlappyRabbitGame.exe
+C:\Users\tranh\OneDrive\Máy tính\FlappyRabbitGame\FlappyRabbitGame\FlappyRabbitGame\obj\Debug\FlappyRabbitGame.pdb
